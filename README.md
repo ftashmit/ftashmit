@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashmit Dutta</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47dr4ik7d8r0lq1jcl2ehrpxhunn46x77mo446szzp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
