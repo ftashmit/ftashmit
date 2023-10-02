@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ftashmit" target="blank"><img src="https://img.shields.io/twitter/follow/ftashmit?logo=twitter&style=for-the-badge" alt="ftashmit" /></a> </p>
 
-- 📫 How to reach me **ashmitdutta@gmail.com**
+- 📫 How to reach me: **ashmitdutta@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/11F0KT-AXPDP4DYOCxd7gU15MjOakAzG0AMRMmD-p2RY/edit?usp=sharing](https://docs.google.com/document/d/11F0KT-AXPDP4DYOCxd7gU15MjOakAzG0AMRMmD-p2RY/edit?usp=sharing)
 
