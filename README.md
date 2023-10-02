@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashmit Dutta</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47dr4ik7d8r0lq1jcl2ehrpxhunn46x77mo446szzp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
