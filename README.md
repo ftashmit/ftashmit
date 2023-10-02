@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftashmit&label=Profile%20views&color=0e75b6&style=flat" alt="ftashmit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ftashmit" target="blank"><img src="https://img.shields.io/twitter/follow/ftashmit?logo=twitter&style=for-the-badge" alt="ftashmit" /></a> </p>
 
 - 📫 How to reach me: **ashmitdutta@gmail.com**
 
