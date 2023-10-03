@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashmit Dutta</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://o.remove.bg/downloads/648e8d0d-6b0d-4240-a7dc-af4227a1da8e/pngtree-overlooking-the-programmers-office-work-png-image_1508501-removebg-preview.png">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftashmit&label=Profile%20views&color=0e75b6&style=flat" alt="ftashmit" /> </p>
 
