@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **ashmitdutta@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/11F0KT-AXPDP4DYOCxd7gU15MjOakAzG0AMRMmD-p2RY/edit?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/11F0KT-AXPDP4DYOCxd7gU15MjOakAzG0AMRMmD-p2RY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <a href="https://fb.com/ashmit dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/ftashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftashmit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ftashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ftashmit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ftashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ftashmit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
