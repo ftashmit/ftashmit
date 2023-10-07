@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftashmit&label=Profile%20views&color=0e75b6&style=flat" alt="ftashmit" /> </p>
 
-
+- 🌱 I’m currently learning **Web Development : CSS, JavaScript**
+  
 - 📫 How to reach me: **ashmitdutta@gmail.com**
 
 - 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/11F0KT-AXPDP4DYOCxd7gU15MjOakAzG0AMRMmD-p2RY/edit?usp=sharing)
