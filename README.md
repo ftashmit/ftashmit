@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/91/2c/13/912c1339020235e45c20a6cde9829974.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ashmit Dutta</h1>
+<h1 align="center">Hi , I'm Ashmit Dutta</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
