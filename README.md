@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Ashmit Dutta</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-🔭 I’m currently working on a MERN stack webapp.<br>🌱 I’m currently learning full stack Web Development.<br>
+🔭 I’m currently working on a MERN stack webapp.<br>🌱 I’m currently learning Full Stack Web Development.<br>
 
 
 ## 🌐 Socials:
