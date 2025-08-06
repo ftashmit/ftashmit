@@ -3,10 +3,9 @@
 <h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast | MERN | Next.js | DBMS</h3>
 
 
-### 🌟 About Me
+###  About Me
 - 💻 **Computer Science Undergraduate** passionate about **Full-Stack Development** & **AI/ML**  
-- 🌱 Exploring **Cloud (AWS, S3, Athena)** and **Database Management Systems**  
-- ⚡ Creator of **DonorLink**, **Fintide**, and **AI-powered Finance & Web Scraping Projects**  
+- 🌱 Exploring **Cloud (AWS, S3, Athena)**,**React-Native App Development** and **Database Management Systems**   
 - 🎯 Focused on **building scalable, efficient, and impactful applications**  
 
 
