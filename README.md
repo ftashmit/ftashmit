@@ -1,19 +1,13 @@
-[![MasterHead](https://i.pinimg.com/originals/91/2c/13/912c1339020235e45c20a6cde9829974.png)](https://rishavchanda.io)
-<h1 align="center">Hi👋, I'm Ashmit Dutta</h1>
+<h1 align="center">Hey, I'm Ashmit</h1>
 <h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast | MERN | Next.js | DBMS</h3>
-
 
 ###  About Me
 - 💻 **Computer Science Undergraduate** passionate about **Full-Stack Development** & **AI/ML**  
-- 🌱 Exploring **Cloud (AWS, S3, Athena)**,**React-Native App Development** and **Database Management Systems**   
+- 🌱 Exploring **Nest.js**, **React-Native App Development** and **Database Management Systems**   
 - 🎯 Focused on **building scalable, efficient, and impactful applications**  
 
-
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084012086797) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ftashmit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftashmit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ftashmit) 
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ftashmit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftashmit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ftashmit) 
 
 ## 💻 Tech Stack:
 
@@ -29,16 +23,19 @@
 #### **Frontend**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo%20Go-000020.svg?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shadcn_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 #### **Backend**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appwrite-F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white"/>
 </p>
 
 #### **Databases & DBMS**
@@ -58,17 +55,6 @@
 #### **Tools & Libraries**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ftashmit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftashmit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=ftashmit&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
