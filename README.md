@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ashmit</h1>
+<h1 align="center">Hey, I'm Ashmit.</h1>
 <h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast | MERN | Next.js | DBMS</h3>
 
 ###  About Me
